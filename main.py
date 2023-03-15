@@ -1,4 +1,3 @@
-import json
 def checkCondition(mot):
     majuscule = False
     minuscule = False
