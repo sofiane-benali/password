@@ -1,5 +1,4 @@
 import json
-import time
 def checkCondition(mot):
     majuscule = False
     minuscule = False
